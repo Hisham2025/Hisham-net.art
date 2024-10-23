@@ -1,0 +1,90 @@
+* { 
+  margin: 0;  
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto auto auto;
+    height:100vh;
+    width:100%;
+}
+
+.item1{
+    background-image: linear-gradient(to right, rgb(57, 0, 0), maroon)
+}
+
+.item2{
+    background-image: linear-gradient(to right, maroon, red)
+}
+.item3{
+    background-image: linear-gradient(to right, red, orange)
+}
+
+.item4{
+    background-image: linear-gradient(to right, orange, yellow)
+}
+
+.item5{
+    background-color: yellow
+}
+
+.item10{
+    background-image: linear-gradient(to bottom,  yellow,rgb(255, 255, 150))
+}
+
+.item15{
+    background-image: linear-gradient(to bottom, rgb(255, 255, 150), yellow)
+}
+
+.item20{
+    background-color:yellow
+}
+
+.item19{
+    background-image: linear-gradient(to left, yellow, orange)
+}
+
+.item18{
+    background-image: linear-gradient(to left, orange, red)
+}
+
+.item17{
+    background-image: linear-gradient(to left, red, maroon)
+}
+
+.item16{
+    background-color: maroon
+}
+
+.item11{
+    background-image: linear-gradient(to top, maroon, rgb(57, 0, 0))
+}
+
+.item6{
+    background-color: rgb(57, 0, 0)
+}
+
+.item7{
+    background-image: linear-gradient(to right, rgb(57, 0, 0), maroon)
+}
+
+.item8{
+    background-image: linear-gradient(to right,maroon, red)
+}
+
+.item9{
+    background-color: red
+}
+
+.item14{
+    background-color: red
+}
+
+.item13{
+    background-image: linear-gradient(to left, red, orange)
+}
+
+.item12{
+    background-image: linear-gradient(to left, orange, yellow)
+}
