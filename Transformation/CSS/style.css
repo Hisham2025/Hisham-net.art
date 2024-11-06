@@ -50,42 +50,6 @@
     left: 25px;
 }
 
-.item5{
-    position: absolute;
-    border: 10px;
-    border-style:solid;
-    border-color: black;
-    background-color: red;
-    height: 200px;
-    width: 250px;
-    top: 235px;
-    right: 285px;
-}
-
-.item6
-{position: absolute;
-border: 10px;
-border-style:solid;
-border-color: black;
-background-color: red;
-height: 200px;
-width: 250px;
-top: 235px;
-left: 285px;
-}
-
-.item7{
-    position: absolute;
-border: 10px;
-border-style:solid;
-border-color: black;
-background-color: red;
-height: 200px;
-width: 250px;
-top: 445px;
-left: 40.2vw;
-}
-
 .grid-item{
     transition: 0.8s ease, background-color 0.8s ease;
 }
