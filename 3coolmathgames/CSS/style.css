@@ -6,12 +6,12 @@
     position:absolute;
     z-index: 1;
     background-image: linear-gradient(to bottom, lime, blue);
-    height: 100vh;
+    height: 100%;
     width: 100%
 }
 
 .gridcontainer{
-    maxwidth:100%
+    maxwidth:100%;
     z-index: 3;
     display: grid;
     grid-template-columns: auto auto auto;
