@@ -6,7 +6,7 @@
     position:fixed;
     z-index: 1;
     background-image: linear-gradient(to bottom, lime, blue);
-    height: 100%;
+    height: 100vh;
     width: 100vw
 }
 
