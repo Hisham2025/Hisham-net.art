@@ -11,7 +11,6 @@
 }
 
 .gridcontainer{
-    maxwidth:100%;
     z-index: 3;
     display: grid;
     grid-template-columns: auto auto auto;
