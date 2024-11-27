@@ -106,6 +106,7 @@
 }
 
 .paragraph{
+    margin-bottom: -2px;
     background-color: lime;
     border-radius: 20px;
     padding: 10px;
