@@ -3,7 +3,7 @@
 }
 
 .background{
-    position:absolute;
+    position:fixed;
     z-index: 1;
     background-image: linear-gradient(to bottom, lime, blue);
     height: 100%;
