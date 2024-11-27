@@ -3,11 +3,11 @@
 }
 
 .background{
-    position:fixed;
+    position:absolute;
     z-index: 1;
     background-image: linear-gradient(to bottom, lime, blue);
     height: 100vh;
-    width: 100vw
+    width: 100%
 }
 
 .gridcontainer{
