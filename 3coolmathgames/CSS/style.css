@@ -6,8 +6,8 @@
     position:fixed;
     z-index: 1;
     background-image: linear-gradient(to bottom, lime, blue);
-    height: 100%;
-    width: 100vw
+    height: 100vh;
+    width: 100%
 }
 
 .gridcontainer{
