@@ -46,7 +46,7 @@
     text-align: center;
     z-index: 4;
     margin-top: 5vmin;
-    border-radius: 1vw;
+    border-radius: 2vw;
     -webkit-text-stroke-width: 0.15vmin;
     -webkit-text-stroke-color: grey;
     display:flex;
@@ -83,7 +83,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 0.8vmin;
     margin-top: 2vmin;
-    border-radius: 0.5vw;
+    border-radius: 1vw;
     position: relative;
     width:fit-content;
     height:fit-content;
